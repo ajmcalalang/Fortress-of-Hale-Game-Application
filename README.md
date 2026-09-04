@@ -35,7 +35,7 @@ The goal of this project is to spread awareness of microplastic contamination in
 ![Chapter Selection](chapter-selection.png)
 
 ### Game UI
-![Game UI](images/game-ui.png)
+![Game UI](game-ui.png)
 
 ## 🧪 Testing
 | Test Case | Description | Status |
