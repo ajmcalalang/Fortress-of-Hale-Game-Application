@@ -6,13 +6,6 @@ An educational tower defense game that raises awareness about microplastic conta
 ## 🎯 Project Objective
 The goal of this project is to spread awareness of microplastic contamination in food and its health impact through interactive, game-based learning, making a complex environmental issue accessible and engaging for players aged 13 and up.
 
-## Group Members:
-● Caberte, Alliza Anne - Developer & UX/UI Designer
-● Calalang, Adrian James - Tester
-● Gulapa, Vhiane Angenae - Project Manager & UX/UI Designer
-● Malang, Andrei Nathaniel - Tester
-● Onggod, Ruzzell - Analyst
-
 ## 🛠️ Technologies Used
 - Unity 2D
 - Figma
@@ -56,3 +49,10 @@ The goal of this project is to spread awareness of microplastic contamination in
 
 ## 💡 Key Takeaways
 Developing this project reinforced the importance of grounding a game in a specific, real-world problem before designing around it. Combining a pressing health/environmental issue with tower defense mechanics showed how gamified learning can make complex topics like microplastic contamination both educational and engaging.
+
+## Group Members:
+- Caberte, Alliza Anne - Developer & UX/UI Designer
+- Calalang, Adrian James - Tester
+- Gulapa, Vhiane Angenae - Project Manager & UX/UI Designer
+- Malang, Andrei Nathaniel - Tester
+- Onggod, Ruzzell - Analyst
