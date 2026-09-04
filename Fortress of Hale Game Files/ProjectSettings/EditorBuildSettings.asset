@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: f323c1bfee2424f4fb78aced86f79a5a
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro1.unity
+    guid: c9f1bcce8aae08842840dd2f2326d450
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro2.unity
+    guid: 3d03a3e64c8f4e943bf62135213e3591
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro3.unity
+    guid: 6e914cec6323f2b4fa73c4e6e6d46507
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro4.unity
+    guid: 005a3c9c5f7eba2488db1977e1601632
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro5.unity
+    guid: cc999820b9836914e994ff9ee796b539
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro6.unity
+    guid: 9e30f7e3ac90b0648b41fc4b29aa6ea8
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro7.unity
+    guid: b859c85fe4c189d43ba573d8499982f4
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro8.unity
+    guid: db6c0c04a29ae894bae41e818fa2a8b2
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro9.unity
+    guid: 8f03c06ae7f9de945b80c992e38e4299
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro10.unity
+    guid: 8f6a51357399a9646ba3e1e6fd33111e
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro11.unity
+    guid: 162b1de911aa9354186f5f456e2016a3
+  - enabled: 1
+    path: Assets/Scenes/prologue/pro12.unity
+    guid: 0e99e5470b064144b8f278482035e28f
+  - enabled: 1
+    path: Assets/Scenes/MapSelect.unity
+    guid: e677b26f6a9858b48a957de3af02d2f6
+  - enabled: 1
+    path: Assets/Scenes/Chpt 1/S1.unity
+    guid: 7ebd8f4c1cd1ad94ea57eae740509ced
+  - enabled: 1
+    path: Assets/Scenes/Chpt 1/S2.unity
+    guid: 8ddb69a6866493b418cec82c70f48cce
+  - enabled: 1
+    path: Assets/Scenes/Chpt 1/S3.unity
+    guid: 49e513c4cfd7c1a44a24d574115218d8
+  - enabled: 1
+    path: Assets/Scenes/Chpt 1/S4.unity
+    guid: 30f4db0a93eb2054a88f3afb200f0aab
+  - enabled: 1
+    path: Assets/Scenes/First Level.unity
+    guid: b21938ed54c8db04a9cbb0256f89d75e
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win1.unity
+    guid: ac29934583dc56f4eaf193f0e08cd96d
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win2.unity
+    guid: 4507f6a5971152840ae6da719abed3a3
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win3.unity
+    guid: f7718c770e1d97e448a3c8c731d916fa
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win4.unity
+    guid: 8a522917c24f1d740abc0042373784ee
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win5.unity
+    guid: fa34d35a44ce2e14f8e450c6864942f6
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win6.unity
+    guid: 1e6a3c9c17bd9a649b3ec4a51a84177d
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win7.unity
+    guid: 3e5559903f88675439772be82bc808d9
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win8.unity
+    guid: 9c2cc66b40bbe534a862fbab0d77ee08
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win9.unity
+    guid: db038c9ed08389944be000a647930285
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win10.unity
+    guid: f1585d3dd0c800e4bb17a9d901b56b2f
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win11.unity
+    guid: d4fb341dd87535b45a6fb4ce89fa2b30
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win12.unity
+    guid: 01da49083921afb45819b5c8658e305e
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win13.unity
+    guid: 9188950bfa733fe42b8d4353d93feb03
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Win14.unity
+    guid: a7e28496526ec884394f64efb7d46fbc
+  - enabled: 1
+    path: Assets/Scenes/Lratio/BadEnd1.unity
+    guid: 79e7b662aeb83964a8c9f2922e836996
+  - enabled: 1
+    path: Assets/Scenes/Lratio/BadEnd2.unity
+    guid: bd4d848e9d941844a864c9cfab623302
+  - enabled: 1
+    path: Assets/Scenes/Character Sheet/C1.unity
+    guid: 3fa0d14b8afd421469901333ec8ab2ef
+  - enabled: 1
+    path: Assets/Scenes/Character Sheet/C2.unity
+    guid: 8c420ad17c2d25e43ab349cc169d6772
+  - enabled: 1
+    path: Assets/Scenes/Character Sheet/C3.unity
+    guid: dfc8f80243d62b948bf64ed3b5084146
+  - enabled: 1
+    path: Assets/Scenes/Character Sheet/C4.unity
+    guid: 898039d4eada939498ba1f1883074046
+  - enabled: 1
+    path: Assets/Scenes/Character Sheet/C5.unity
+    guid: 57991207920a44649b940a759dd09c7c
+  - enabled: 1
+    path: Assets/Scenes/Character Sheet/C6.unity
+    guid: 22af7d5f0b4c88d448deedffd32ef77c
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Complete.unity
+    guid: 54d046ae1987f2e4496fb8767602540a
+  - enabled: 1
+    path: Assets/Scenes/WinCon/Black.unity
+    guid: be53e44935479bf45aac3bd6205ac6d9
+  m_configObjects: {}
