@@ -1,7 +1,7 @@
 # Fortress of Hale: Medical Tower Defense
 An educational tower defense game that raises awareness about microplastic contamination in food and its effects on human health, built as a team project following the Agile SDLC.
 
-![Home](home.png)
+![Home](Home.png)
 
 ## 🎯 Project Objective
 The goal of this project is to spread awareness of microplastic contamination in food and its health impact through interactive, game-based learning, making a complex environmental issue accessible and engaging for players aged 13 and up.
